@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AmazonSearch001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a467d051-997d-4b66-9d41-c0973850ba7f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>948216a3-d856-44dc-ba64-c01a909cc0b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'toys'</defaultValue>
+      <description></description>
+      <id>948216a3-d856-44dc-ba64-c01a909cc0b6</id>
+      <masked>false</masked>
+      <name>SearchInput</name>
+   </variable>
+</TestCaseEntity>
