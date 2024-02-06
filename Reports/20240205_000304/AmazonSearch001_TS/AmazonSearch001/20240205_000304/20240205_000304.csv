@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AmazonSearch001,Chrome 121.0.0.0,A searching test suite for search bar,,05-02-2024 00:04:01,05-02-2024 00:04:46,44.345s,ERROR
+,,,,,,,
+Test Cases/AmazonLogin/TC_AmazonSearch001,Chrome 121.0.0.0,searching an item using search bar,,05-02-2024 00:04:03,05-02-2024 00:04:46,43.201s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 00:04:05,05-02-2024 00:04:28,23.040s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,05-02-2024 00:04:28,05-02-2024 00:04:29,0.987s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 00:04:29,05-02-2024 00:04:32,3.559s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,05-02-2024 00:04:32,05-02-2024 00:04:41,8.774s,PASSED
+"setText(findTestObject(""Object Repository/AmazonSearch001_OR/Page_Amazon.com/input_field-keywords""), ""BLFLXL"")",Chrome 121.0.0.0,,,05-02-2024 00:04:41,05-02-2024 00:04:45,3.442s,PASSED
+"click(findTestObject(""Object Repository/AmazonSearch001_OR/Page_Amazon.com/button_Continue shopping""))",Chrome 121.0.0.0,,,05-02-2024 00:04:45,05-02-2024 00:04:46,0.962s,PASSED
+setText(ball),Chrome 121.0.0.0,,,05-02-2024 00:04:46,05-02-2024 00:04:46,0.103s,ERROR
