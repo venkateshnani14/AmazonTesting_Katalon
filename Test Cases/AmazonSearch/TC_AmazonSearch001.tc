@@ -12,7 +12,7 @@
       <variableId>948216a3-d856-44dc-ba64-c01a909cc0b6</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'toys'</defaultValue>
+      <defaultValue>'arduino'</defaultValue>
       <description></description>
       <id>948216a3-d856-44dc-ba64-c01a909cc0b6</id>
       <masked>false</masked>

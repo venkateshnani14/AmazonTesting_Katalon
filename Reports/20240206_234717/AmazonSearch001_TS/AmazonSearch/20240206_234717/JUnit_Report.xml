@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AmazonSearch" time="106.03" tests="4" failures="0" errors="0">
+   <testsuite name="AmazonSearch" tests="4" failures="0" errors="0" time="106.03" skipped="0" timestamp="06-02-2024T23:47:26" hostname="LavanyaM - LAPTOP-D3SE02BR" id="Test Suites/AmazonSearch001_TS/AmazonSearch">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LavanyaM\\git\\AmazonTesting_Katalon\\Reports\\20240206_234717\\AmazonSearch001_TS\\AmazonSearch\\20240206_234717"/>
+         <property name="logFiles" value="C:\\Users\\LavanyaM\\git\\AmazonTesting_Katalon\\Reports\\20240206_234717\\AmazonSearch001_TS\\AmazonSearch\\20240206_234717\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LavanyaM - LAPTOP-D3SE02BR"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.182"/>
+         <property name="sessionId" value="d0c748e654157b6377390162f67bba97"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/AmazonSearch/TC_AmazonSearch001" time="35.814" classname="Test Cases/AmazonSearch/TC_AmazonSearch001" status="PASSED">
+         <system-out><![CDATA[06-02-2024T23:47:27 - [TEST_CASE][PASSED] - Test Cases/AmazonSearch/TC_AmazonSearch001: Test Cases/AmazonSearch/TC_AmazonSearch001
+
+06-02-2024T23:47:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-02-2024T23:47:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-02-2024T23:47:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-02-2024T23:47:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-02-2024T23:47:33 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:47:39 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:47:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords"), SearchInput): Text 'Spartan bats' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:47:54 - [MESSAGE][PASSED] - Text 'Spartan bats' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:47:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button")): Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:48:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-02-2024T23:48:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AmazonSearch/TC_AmazonSearch001" time="25.6" classname="Test Cases/AmazonSearch/TC_AmazonSearch001" status="PASSED">
+         <system-out><![CDATA[06-02-2024T23:48:03 - [TEST_CASE][PASSED] - Test Cases/AmazonSearch/TC_AmazonSearch001: Test Cases/AmazonSearch/TC_AmazonSearch001
+
+06-02-2024T23:48:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-02-2024T23:48:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-02-2024T23:48:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-02-2024T23:48:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-02-2024T23:48:08 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:48:15 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:48:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords"), SearchInput): Text 'Kookaburra ball' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:48:16 - [MESSAGE][PASSED] - Text 'Kookaburra ball' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:48:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button")): Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:48:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:48:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-02-2024T23:48:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AmazonSearch/TC_AmazonSearch001" time="24.479" classname="Test Cases/AmazonSearch/TC_AmazonSearch001" status="PASSED">
+         <system-out><![CDATA[06-02-2024T23:48:28 - [TEST_CASE][PASSED] - Test Cases/AmazonSearch/TC_AmazonSearch001: Test Cases/AmazonSearch/TC_AmazonSearch001
+
+06-02-2024T23:48:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-02-2024T23:48:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-02-2024T23:48:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-02-2024T23:48:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-02-2024T23:48:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:48:42 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:48:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords"), SearchInput): Text 'Redbull racing car' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:48:43 - [MESSAGE][PASSED] - Text 'Redbull racing car' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:48:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button")): Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:48:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:48:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-02-2024T23:48:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AmazonSearch/TC_AmazonSearch001" time="19.193" classname="Test Cases/AmazonSearch/TC_AmazonSearch001" status="PASSED">
+         <system-out><![CDATA[06-02-2024T23:48:53 - [TEST_CASE][PASSED] - Test Cases/AmazonSearch/TC_AmazonSearch001: Test Cases/AmazonSearch/TC_AmazonSearch001
+
+06-02-2024T23:48:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-02-2024T23:48:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-02-2024T23:48:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-02-2024T23:48:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-02-2024T23:48:55 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:49:01 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T23:49:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords"), SearchInput): Text 'Lewis hamilton shirt' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:49:04 - [MESSAGE][PASSED] - Text 'Lewis hamilton shirt' is set on object 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+06-02-2024T23:49:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button")): Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:49:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button' is clicked on
+
+06-02-2024T23:49:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-02-2024T23:49:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-02-2024T23:47:26 - [TEST_SUITE][PASSED] - AmazonSearch: Test Cases/AmazonSearch/TC_AmazonSearch001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

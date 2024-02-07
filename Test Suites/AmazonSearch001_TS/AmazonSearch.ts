@@ -15,7 +15,7 @@
       <guid>2a78a9bf-d850-4bb3-bcba-a77eb6ddf1c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AmazonLogin/TC_AmazonSearch001</testCaseId>
+      <testCaseId>Test Cases/AmazonSearch/TC_AmazonSearch001</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>5c1fb981-1bcf-4c71-830b-0bfd3bf2629f</id>

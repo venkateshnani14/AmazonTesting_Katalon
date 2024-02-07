@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registering new users</description>
+   <name>TC_UserRegistration002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30df15c1-ace9-47d2-b1b8-1cb2e1f206b8</testCaseGuid>
+</TestCaseEntity>

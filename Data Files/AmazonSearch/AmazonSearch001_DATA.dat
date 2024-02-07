@@ -9,12 +9,17 @@
    <dataFileGUID>108abf9e-46e1-45a0-8d04-7cbb66889d4d</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>Spartan+bats</data>
-   <data>Kookaburra+ball</data>
-   <data>Redbull+racing+car</data>
-   <data>Lewis+hamilton+cap</data>
+   <data>TC_AmazonSearch001 Spartan+bats</data>
+   <data>TC_AmazonSearch001 Kookaburra+ball</data>
+   <data>TC_AmazonSearch001 Redbull+racing+car</data>
+   <data>TC_AmazonSearch001 Lewis+hamilton+shirt</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
+      <name>TESTCASE ID</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
       <name>SearchInput</name>
       <size>4</size>
    </internalDataColumns>

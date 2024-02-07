@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AmazonSearch,Chrome 121.0.0.0,,,06-02-2024 23:47:26,06-02-2024 23:49:12,1m - 46.030s,PASSED
+,,,,,,,
+Test Cases/AmazonSearch/TC_AmazonSearch001,Chrome 121.0.0.0,,,06-02-2024 23:47:27,06-02-2024 23:48:03,35.814s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 23:47:28,06-02-2024 23:47:33,5.402s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,06-02-2024 23:47:33,06-02-2024 23:47:39,6.309s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), SearchInput)",Chrome 121.0.0.0,,,06-02-2024 23:47:39,06-02-2024 23:47:54,14.530s,PASSED
+"click(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 23:47:54,06-02-2024 23:48:01,7.341s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 23:48:01,06-02-2024 23:48:03,1.534s,PASSED
+,,,,,,,
+Test Cases/AmazonSearch/TC_AmazonSearch001,Chrome 121.0.0.0,,,06-02-2024 23:48:03,06-02-2024 23:48:28,25.600s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 23:48:03,06-02-2024 23:48:08,5.196s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,06-02-2024 23:48:08,06-02-2024 23:48:15,7.031s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), SearchInput)",Chrome 121.0.0.0,,,06-02-2024 23:48:15,06-02-2024 23:48:16,1.111s,PASSED
+"click(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 23:48:16,06-02-2024 23:48:28,11.566s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 23:48:28,06-02-2024 23:48:28,0.599s,PASSED
+,,,,,,,
+Test Cases/AmazonSearch/TC_AmazonSearch001,Chrome 121.0.0.0,,,06-02-2024 23:48:28,06-02-2024 23:48:53,24.479s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 23:48:29,06-02-2024 23:48:31,2.139s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,06-02-2024 23:48:31,06-02-2024 23:48:42,10.938s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), SearchInput)",Chrome 121.0.0.0,,,06-02-2024 23:48:42,06-02-2024 23:48:43,1.378s,PASSED
+"click(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 23:48:43,06-02-2024 23:48:52,8.843s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 23:48:52,06-02-2024 23:48:53,1.081s,PASSED
+,,,,,,,
+Test Cases/AmazonSearch/TC_AmazonSearch001,Chrome 121.0.0.0,,,06-02-2024 23:48:53,06-02-2024 23:49:12,19.193s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 23:48:53,06-02-2024 23:48:55,1.586s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,06-02-2024 23:48:55,06-02-2024 23:49:01,6.486s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), SearchInput)",Chrome 121.0.0.0,,,06-02-2024 23:49:01,06-02-2024 23:49:04,2.508s,PASSED
+"click(findTestObject(""Object Repository/Amazon/AmazonSearch001/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 23:49:04,06-02-2024 23:49:11,7.576s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 23:49:11,06-02-2024 23:49:12,1.002s,PASSED
